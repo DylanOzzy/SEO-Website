@@ -85,14 +85,14 @@ a {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 p {
@@ -112,16 +112,15 @@ p {
     max-height: 200px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
