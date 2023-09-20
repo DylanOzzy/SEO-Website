@@ -160,16 +160,5 @@ Line 7: `<title>Horiseon SEO</title>`
 
 
 
-
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](.\assets\images\01-html-css-git-homework-demo.png)
-
-
-
-
-
-
-
+![https://dylanozzy.github.io/SEO-Website/](./assets\images\SEOWebsiteSS.jpg)
+[Link](https://dylanozzy.github.io/SEO-Website/) to deploy.
